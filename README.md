@@ -1,1 +1,1 @@
-一个使用Python构建的符合二范式的DBMS
+使用Python构建的符合二范式的DBMS
